@@ -1,0 +1,40 @@
+# Normal Function	 
+The STAT3 gene is part of a family known as the STAT genes. These genes provide instructions for making proteins that are part of essential chemical signaling pathways within cells. When STAT proteins are turned on (activated) by certain chemical signals, they move into the cell's nucleus and attach (bind) to particular areas of DNA. The STAT proteins bind to regulatory regions near genes, which allows the proteins to control whether these genes are turned on or off. STAT proteins are called transcription factors on the basis of this action.
+
+Through its regulation of gene activity, the STAT3 protein is involved in many cellular functions. It helps control cell growth and division (proliferation), cell movement (migration), and the self-destruction of cells (apoptosis). 
+
+The STAT3 protein is active in tissues throughout the body. It plays an important role in the development and function of several body systems and is essential for life. In the immune system, the STAT3 protein transmits signals for the maturation of immune system cells, especially T cells and B cells. These cells help control the body's response to foreign invaders such as bacteria and fungi. 
+
+In addition, the protein is involved in the regulation of inflammation, which is one way the immune system responds to infection or injury, and it plays a role in cellular processes that promote allergic reactions. 
+
+In the skeletal system, the STAT3 protein is involved in the formation of specialized cells that build and break down bone tissue. These cells are necessary for the normal development and maintenance of bones.
+
+# Health Conditions Related to Genetic Changes	 
+Autosomal dominant hyper-IgE syndrome	 
+More than 100 germline mutations in the STAT3 gene have been identified in people with autosomal dominant hyper-IgE syndrome (AD-HIES), a disorder of the immune system that leads to recurrent skin and lung infections as well as abnormalities of the bones, teeth, and blood vessels. The condition is characterized by high levels of an immune system protein called immunoglobulin E (IgE), which is involved in allergic reactions. Most of the mutations involved in this condition change single amino acids in the STAT3 protein.
+
+Changes in the STAT3 gene that cause AD-HIES alter the structure and function of the STAT3 protein, impairing its ability to control the activity of other genes. Most of these mutations have a dominant-negative effect, which means that the altered protein produced from one copy of the STAT3 gene interferes with the function of the normal protein produced from the other copy of the gene. 
+
+The lack of STAT3's signaling function disrupts the normal maturation of T cells (specifically a subset known as Th17 cells) and other immune system cells. The resulting immune system abnormalities make people with AD-HIES highly susceptible to infections, particularly bacterial and fungal infections affecting the lungs and skin. 
+
+A shortage of functioning STAT3 protein prevents cells from reacting to signals that trigger allergic reactions, which explains why people with AD-HIES do not have an increased risk of allergies, despite having high levels of IgE. It is unclear why levels of this protein are elevated in affected individuals.
+
+The role of STAT3 protein in the formation and maintenance of bone tissue may help explain why STAT3 gene mutations lead to the skeletal and dental abnormalities characteristic of this condition, but it is unclear what causes blood vessel abnormalities in AD-HIES.
+
+# Autoimmune disorders	 
+At least 20 STAT3 gene mutations have been found to cause an autoimmune disorder that affects many body systems. Autoimmune disorders are a group of immune system abnormalities in which the immune system malfunctions and attacks the body's own cells and tissues. 
+
+In people with these STAT3 gene mutations, autoimmunity typically begins in infancy or early childhood and involves more than one body system. In these individuals, signs and symptoms commonly result from immune system attacks on insulin-producing cells in the pancreas (type 1 diabetes), red blood cells (autoimmune hemolytic anemia), platelets (autoimmune thrombocytopenia), or tissues in the digestive tract (autoimmune enteropathy). 
+
+The mutations involved in these conditions are typically inherited and are found in every cell of the body (known as germline mutations). They change single protein building blocks (amino acids) in the STAT3 protein, resulting in an altered protein that is abnormally active. Due to this effect, the mutations are classified as "gain-of-function."
+
+Normally, the STAT3 protein is switched on and off in response to signals that control cell growth and development. A continuously active version of this protein relays messages to the nucleus even in the absence of these chemical signals. Abnormal STAT3 activity prevents normal control of the immune system, leading to autoimmunity.
+
+# Cancers	 
+STAT3 gene mutations are found in approximately one-third of cases of a blood cancer called large granular lymphocytic leukemia (LGL), which is characterized by the accumulation of white blood cells (lymphocytes) that are abnormally large and contain structures called granules. 
+
+Individuals with LGL may also have an autoimmune disorder, primarily rheumatoid arthritis or autoimmune hemolytic anemia, and other blood cell abnormalities, such as pure red cell aplasia. There are two forms of the condition, based on the type of white blood cell involved: T-cell large granular lymphocytic leukemia (T-LGL) and chronic lymphoproliferative disorders of NK cells (CLPD-NKs). Both forms have the same signs and symptoms.
+
+Unlike mutations that cause the autoimmunity (described above), LGL-associated STAT3 gene mutations are not inherited and are found only in the abnormal lymphocytes. (Such mutations are known as somatic mutations.) The mutations involved in LGL are classified as "gain-of-function," leading to an overactive STAT3 protein. 
+
+Researchers believe that the overactive STAT3 protein instructs cells to continue growing and dividing, and prevents damaged cells from self-destructing (undergoing apoptosis). Excess STAT3 protein may contribute to the growth of cancers by allowing abnormal cells to grow and divide uncontrollably.
